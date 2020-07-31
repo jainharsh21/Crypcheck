@@ -1,0 +1,12 @@
+{
+  "name": "crypcheck",
+  "version": "1.0.0",
+  "description": "CLI to check crypto currency price",
+  "main": "index.js",
+  "bin": "./bin/crypcheck.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh Jain",
+  "license": "MIT"
+}
